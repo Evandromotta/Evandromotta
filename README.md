@@ -1,13 +1,19 @@
 ### Olá, sou o Evandro Motta
-👨🏻‍💻 Cientista de Dados na Área financeira na empresa [Transportes Gabardo](https://transgabardo.com.br/site/)
+👨🏻‍💻 Cientista de Dados na area financeira na [Transportes Gabardo](https://transgabardo.com.br/site/)
 
 🔭Aspirante nas horas vagas de astrônomo e músico🎸
 
-<div style="display: inline">
-  <img width='50' height='50'
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />          
-</div>
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Jupter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flag&logo=Jupyter&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flag&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Scict](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flag&logo=scikit-learn&logoColor=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flag&logo=TensorFlow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flate&logo=Keras&logoColor=white)&nbsp;
+![Ploit](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flag&logo=Plotly&logoColor=white)&nbsp;
+![Excell](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=flat&logo=Microsoft-Excel&logoColor=white)&nbsp;
 
 ### Estou também nas seguintes redes sociais:
 <div>
@@ -21,17 +27,5 @@
 </div>
 
 
-<!--
-**Evandromotta/Evandromotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
