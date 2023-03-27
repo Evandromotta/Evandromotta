@@ -1,4 +1,4 @@
-### Olá, sou o Evandro Motta
+### Olá, sou o Evandro S.Motta
 👨🏻‍💻 Cientista de Dados na area financeira na [Transportes Gabardo](https://transgabardo.com.br/site/)
 
 🔭Aspirante nas horas vagas de astrônomo e músico🎸
