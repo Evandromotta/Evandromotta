@@ -1,4 +1,4 @@
-### Olá, sou o Evandro S.Motta
+### Olá, sou o Evandro S.Motta!
 👨🏻‍💻 Cientista de Dados na area financeira na [Transportes Gabardo](https://transgabardo.com.br/site/)
 
 🤖 Automação de procesos (RPA)
