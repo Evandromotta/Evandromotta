@@ -17,6 +17,7 @@
 ![Ploit](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flag&logo=Plotly&logoColor=white)&nbsp;
 ![Excell](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=flat&logo=Microsoft-Excel&logoColor=white)&nbsp;
 
+
 ### Estou também nas seguintes redes sociais:
 <div>
   <a href="https://www.linkedin.com/in/evandrosmotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
