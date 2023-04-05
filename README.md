@@ -1,6 +1,6 @@
 ### Olá, sou o Evandro S.Motta!
 
-⚛️Entusiasta do dados, ciência e contrução de conhecimento!⚛️
+⚛️Entusiasta do dados, ciência e construção de conhecimento!⚛️
 
 👨🏻‍💻 Cientista de Dados na area financeira na [Transportes Gabardo](https://transgabardo.com.br/site/) 👨🏻‍💻
 
